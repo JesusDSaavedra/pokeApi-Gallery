@@ -310,7 +310,7 @@ Desarrollado con ❤️ usando Angular 20 y PokéAPI
 - Imagen de alta calidad
 - Tipos con chips de colores
 - Estadísticas con barras de progreso
-- Descripción oficial y generada por IA
+- Descripción oficial
 - Cadena evolutiva
 - Habilidades y movimientos
 
